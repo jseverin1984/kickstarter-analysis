@@ -1,4 +1,4 @@
-# moduleonechallenge
+# kickstarter-analysis
 
 # Kickstarting with Excel
 
